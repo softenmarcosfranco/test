@@ -1,2 +1,4 @@
-# test
-Test git
+Test
+----
+
+Test git hooks
